@@ -700,7 +700,7 @@ header {
 
 .explore-item p {
     font-size: 1rem;
-    color: #b0b8c1;
+    color: #fff;
     margin-bottom: 0;
     line-height: 1.5;
 }
@@ -763,4 +763,5 @@ header {
         margin: 0 8px;
         font-size: 0.95rem;
     }
+
 }
